@@ -1,0 +1,129 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl
+Efulladder
+Z1 w1696958929
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder.vhdl
+Z5 F/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder.vhdl
+l0
+L4
+VLcFS2Hd3TkhQF0ik=IYSX0
+!s100 :Eo<[>[UWkabk6UIb8_Tc1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1696965173
+!i10b 1
+Z8 !s108 1696965173.000000
+Z9 !s90 -reportprogress|300|-work|work|/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder.vhdl|
+Z10 !s107 /home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder.vhdl|
+!i113 1
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+Z13 DEx4 work 9 fulladder 0 22 LcFS2Hd3TkhQF0ik=IYSX0
+l16
+L14
+Ve^Q<lS7@VEXLSJmS5E1Ok0
+!s100 zfQY]Qo=N2doRFb?mMVMe2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Efulladder4b
+Z14 w1696959546
+R2
+R3
+R0
+Z15 8/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder4b.vhdl
+Z16 F/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder4b.vhdl
+l0
+L4
+VG5PiYJ6o[5oVKKFn3WRA32
+!s100 R8zh`:=YZ5YXclUCS9jBK1
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder4b.vhdl|
+Z18 !s107 /home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder4b.vhdl|
+!i113 1
+R11
+R12
+Artl
+R13
+R2
+R3
+Z19 DEx4 work 11 fulladder4b 0 22 G5PiYJ6o[5oVKKFn3WRA32
+l16
+L14
+V4`^6_3KQP6OI^`@QU1gfA0
+!s100 7UI]8]@I74AYX9Q6hYY<c3
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Efulladder4b_tb
+Z20 w1696965156
+R2
+R3
+R0
+Z21 8/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder4b_tb.vhdl
+Z22 F/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder4b_tb.vhdl
+l0
+L4
+V>QjT?PEK7nd17[XZ`k:MA2
+!s100 GbIl30H=PCP=d?zR[^jZ_1
+R6
+32
+Z23 !s110 1696965174
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-work|work|/home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder4b_tb.vhdl|
+Z25 !s107 /home/juanfelipe/Documents/UNIVERSIDAD/6toSemestre/SoC/taller3/arithMux/vhdl/fullAdder4b_tb.vhdl|
+!i113 1
+R11
+R12
+Atestbench
+R19
+R2
+R3
+Z26 DEx4 work 14 fulladder4b_tb 0 22 >QjT?PEK7nd17[XZ`k:MA2
+l12
+L7
+Z27 V_ECd<a@oz8Y[R3_1lZGba0
+Z28 !s100 1C[9>loz:oiKBWB:JC3313
+R6
+32
+R23
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12
